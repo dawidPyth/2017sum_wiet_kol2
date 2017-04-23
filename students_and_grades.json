@@ -1,0 +1,79 @@
+{
+  "subjects" : [ "Polish", "English", "Math" ],
+  "students": {
+    "Kasia Kos": [
+      {
+        "Polish": {
+          "grades": [
+            2,
+            3,
+            1,
+            2
+          ]
+        },
+        "English": {
+          "grades": [
+            5,
+            3,
+            5,
+            5
+          ]
+        },
+        "Math": {
+          "grades": [
+            2,
+            6,
+            4,
+            2
+          ]
+        },
+      "attendance" : [
+            1,
+            1,
+            0,
+            1,
+            0,
+            1,
+            1
+          ]
+      }
+    ],
+    "Ania Byk": [
+      {
+        "Polish": {
+          "grades": [
+            2,
+            3,
+            1,
+            2
+          ]
+        },
+        "English": {
+          "grades": [
+            2,
+            1,
+            4,
+            1
+          ]
+        },
+        "Math": {
+          "grades": [
+            5,
+            5,
+            4,
+            5
+          ]
+        },
+        "attendance": [
+            1,
+            1,
+            0,
+            1,
+            0,
+            1,
+            1
+          ]
+      }
+    ]
+  }
+}
